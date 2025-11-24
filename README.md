@@ -50,6 +50,7 @@ OUTPUT:
 ![Uploading image.png…]()
 
 
+
  
 # RESULTS:
 Thus, an embedded c program to interface ADC with ARM processor was executed and output was verified successfully
