@@ -47,8 +47,8 @@ while(1)
 }
 OUTPUT:
 
-![Uploading image.png…]()
 
+<img width="558" height="375" alt="image" src="https://github.com/user-attachments/assets/83e222af-fef1-4aef-9930-6f634411fa5b" />
 
 
  
